@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/rye/cpp_projects/RayTracingInOneWeekend/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,3 @@
+/home/rye/cpp_projects/RayTracingInOneWeekend/build/CMakeFiles/in_one_weekend.dir
+/home/rye/cpp_projects/RayTracingInOneWeekend/build/CMakeFiles/edit_cache.dir
+/home/rye/cpp_projects/RayTracingInOneWeekend/build/CMakeFiles/rebuild_cache.dir
