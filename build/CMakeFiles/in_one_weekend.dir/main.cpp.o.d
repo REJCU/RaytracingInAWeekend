@@ -1,8 +1,7 @@
 CMakeFiles/in_one_weekend.dir/main.cpp.o: \
  /home/rye/cpp_projects/RayTracingInOneWeekend/main.cpp \
  /usr/include/stdc-predef.h \
- /home/rye/cpp_projects/RayTracingInOneWeekend/color.h \
- /home/rye/cpp_projects/RayTracingInOneWeekend/vec3.h \
+ /home/rye/cpp_projects/RayTracingInOneWeekend/rtweekend.h \
  /usr/include/c++/16.1.1/cmath \
  /usr/include/c++/16.1.1/bits/requires_hosted.h \
  /usr/include/c++/16.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
@@ -150,6 +149,32 @@ CMakeFiles/in_one_weekend.dir/main.cpp.o: \
  /usr/include/c++/16.1.1/bits/basic_ios.tcc \
  /usr/include/c++/16.1.1/bits/ostream_print.h \
  /usr/include/c++/16.1.1/bits/ostream.tcc /usr/include/c++/16.1.1/istream \
- /usr/include/c++/16.1.1/bits/istream.tcc \
+ /usr/include/c++/16.1.1/bits/istream.tcc /usr/include/c++/16.1.1/limits \
+ /usr/include/c++/16.1.1/memory \
+ /usr/include/c++/16.1.1/bits/stl_tempbuf.h \
+ /usr/include/c++/16.1.1/bits/stl_uninitialized.h \
+ /usr/include/c++/16.1.1/bits/stl_raw_storage_iter.h \
+ /usr/include/c++/16.1.1/bits/align.h /usr/include/c++/16.1.1/bit \
+ /usr/include/c++/16.1.1/bits/uses_allocator.h \
+ /usr/include/c++/16.1.1/bits/unique_ptr.h /usr/include/c++/16.1.1/tuple \
+ /usr/include/c++/16.1.1/bits/invoke.h \
+ /usr/include/c++/16.1.1/bits/shared_ptr.h \
+ /usr/include/c++/16.1.1/bits/shared_ptr_base.h \
+ /usr/include/c++/16.1.1/bits/allocated_ptr.h \
+ /usr/include/c++/16.1.1/bits/refwrap.h \
+ /usr/include/c++/16.1.1/ext/aligned_buffer.h \
+ /usr/include/c++/16.1.1/ext/concurrence.h \
+ /usr/include/c++/16.1.1/bits/shared_ptr_atomic.h \
+ /usr/include/c++/16.1.1/bits/atomic_base.h \
+ /usr/include/c++/16.1.1/bits/atomic_lockfree_defines.h \
+ /usr/include/c++/16.1.1/backward/auto_ptr.h \
+ /home/rye/cpp_projects/RayTracingInOneWeekend/color.h \
+ /home/rye/cpp_projects/RayTracingInOneWeekend/vec3.h \
  /home/rye/cpp_projects/RayTracingInOneWeekend/ray.h \
+ /home/rye/cpp_projects/RayTracingInOneWeekend/hittable.h \
+ /home/rye/cpp_projects/RayTracingInOneWeekend/hittable_list.h \
+ /usr/include/c++/16.1.1/vector /usr/include/c++/16.1.1/bits/stl_vector.h \
+ /usr/include/c++/16.1.1/bits/stl_bvector.h \
+ /usr/include/c++/16.1.1/bits/vector.tcc \
+ /home/rye/cpp_projects/RayTracingInOneWeekend/sphere.h \
  /usr/include/linux/limits.h
