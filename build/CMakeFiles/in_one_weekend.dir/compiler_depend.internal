@@ -6,6 +6,7 @@ CMakeFiles/in_one_weekend.dir/main.cpp.o
  /home/rye/cpp_projects/RayTracingInOneWeekend/color.h
  /home/rye/cpp_projects/RayTracingInOneWeekend/hittable.h
  /home/rye/cpp_projects/RayTracingInOneWeekend/hittable_list.h
+ /home/rye/cpp_projects/RayTracingInOneWeekend/interval.h
  /home/rye/cpp_projects/RayTracingInOneWeekend/ray.h
  /home/rye/cpp_projects/RayTracingInOneWeekend/rtweekend.h
  /home/rye/cpp_projects/RayTracingInOneWeekend/sphere.h

@@ -1,6 +1,7 @@
 CMakeFiles/in_one_weekend.dir/main.cpp.o: \
  /home/rye/cpp_projects/RayTracingInOneWeekend/main.cpp \
  /usr/include/stdc-predef.h \
+ /home/rye/cpp_projects/RayTracingInOneWeekend/interval.h \
  /home/rye/cpp_projects/RayTracingInOneWeekend/rtweekend.h \
  /usr/include/c++/16.1.1/cmath \
  /usr/include/c++/16.1.1/bits/requires_hosted.h \

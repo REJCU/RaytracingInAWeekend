@@ -58,3 +58,6 @@ Adding a hittable class - header file named hittable.h.
 hittable abstract class will have a hit function that takes in a ray. 
 Most ray tracers have found convenience in to add valid interval for hits 
 tMIN to tMAX, so the hits only "counts" if tMIN < t < tMAX. 
+
+# 7 - Moving the camera code into its own class 
+

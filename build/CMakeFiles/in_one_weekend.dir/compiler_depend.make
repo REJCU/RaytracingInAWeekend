@@ -5,6 +5,7 @@ CMakeFiles/in_one_weekend.dir/main.cpp.o: /home/rye/cpp_projects/RayTracingInOne
   /home/rye/cpp_projects/RayTracingInOneWeekend/color.h \
   /home/rye/cpp_projects/RayTracingInOneWeekend/hittable.h \
   /home/rye/cpp_projects/RayTracingInOneWeekend/hittable_list.h \
+  /home/rye/cpp_projects/RayTracingInOneWeekend/interval.h \
   /home/rye/cpp_projects/RayTracingInOneWeekend/ray.h \
   /home/rye/cpp_projects/RayTracingInOneWeekend/rtweekend.h \
   /home/rye/cpp_projects/RayTracingInOneWeekend/sphere.h \
@@ -268,6 +269,8 @@ in_one_weekend: /usr/lib/Scrt1.o \
 
 /usr/lib/libm.so.6:
 
+/usr/lib/ld-linux-x86-64.so.2:
+
 /usr/include/c++/16.1.1/bits/localefwd.h:
 
 /usr/include/c++/16.1.1/bits/locale_facets.tcc:
@@ -340,10 +343,6 @@ in_one_weekend: /usr/lib/Scrt1.o \
 
 /usr/include/bits/types/__locale_t.h:
 
-/usr/include/c++/16.1.1/bits/move.h:
-
-/usr/include/c++/16.1.1/bits/cxxabi_forced.h:
-
 /usr/include/bits/types/clockid_t.h:
 
 /usr/include/bits/stdint-intn.h:
@@ -354,13 +353,11 @@ in_one_weekend: /usr/lib/Scrt1.o \
 
 /usr/include/c++/16.1.1/bits/utility.h:
 
-/usr/include/bits/flt-eval-method.h:
-
-/usr/include/bits/floatn-common.h:
-
 /usr/include/c++/16.1.1/bits/charconv.h:
 
 /usr/include/c++/16.1.1/ext/string_conversions.h:
+
+/usr/include/bits/floatn-common.h:
 
 /usr/include/bits/atomic_wide_counter.h:
 
@@ -436,6 +433,8 @@ in_one_weekend: /usr/lib/Scrt1.o \
 
 /usr/include/asm/types.h:
 
+/home/rye/cpp_projects/RayTracingInOneWeekend/interval.h:
+
 /usr/include/c++/16.1.1/bits/functional_hash.h:
 
 /usr/include/c++/16.1.1/memory:
@@ -453,6 +452,8 @@ in_one_weekend: /usr/lib/Scrt1.o \
 /usr/include/c++/16.1.1/bits/version.h:
 
 /usr/include/gnu/stubs.h:
+
+/usr/include/bits/flt-eval-method.h:
 
 /home/rye/cpp_projects/RayTracingInOneWeekend/main.cpp:
 
@@ -559,6 +560,10 @@ in_one_weekend: /usr/lib/Scrt1.o \
 /usr/include/asm/errno.h:
 
 /usr/include/bits/endian.h:
+
+/usr/include/c++/16.1.1/bits/cxxabi_forced.h:
+
+/usr/include/c++/16.1.1/bits/move.h:
 
 /usr/include/c++/16.1.1/bits/nested_exception.h:
 
@@ -787,5 +792,3 @@ CMakeFiles/in_one_weekend.dir/main.cpp.o:
 /usr/lib/libm.so:
 
 /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/crtbeginS.o:
-
-/usr/lib/ld-linux-x86-64.so.2:
